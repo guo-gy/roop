@@ -23,16 +23,12 @@ Face Swap Studio是一个基于[Roop项目](https://github.com/s0md3v/roop)的�
 
 ### 1. 人脸库功能
 
-![人脸库](https://i.ibb.co/RvXnjKS/face-gallery.jpg)
-
 - 自动扫描`faces`目录下的所有人脸图片
 - 支持jpg、png、jpeg和webp等多种格式
 - 缩略图预览，一键切换源人脸
 - 动态刷新，支持实时添加新人脸
 
 ### 2. 实时换脸
-
-![实时换脸](https://i.ibb.co/fDGVQvf/realtime.jpg)
 
 - 摄像头实时预览和换脸
 - 无需停止即可切换不同源人脸
